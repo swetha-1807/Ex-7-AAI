@@ -1,6 +1,6 @@
 <H3>ENTER YOUR NAME: SWETHA K</H3>
 <H3>ENTER YOUR REGISTER NO: 212224230284</H3>
-<H3>EX. NO.7</H3>
+<H3>EX. NO.9</H3>
 <H3>DATE:06.09.2026</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
